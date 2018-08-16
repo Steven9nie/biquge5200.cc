@@ -1,4 +1,3 @@
-#!C:\Python36\python.exe
 # -*- coding:utf-8 -*-
 
 import scrapy.cmdline

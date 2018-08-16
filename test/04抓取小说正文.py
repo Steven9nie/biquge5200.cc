@@ -1,5 +1,5 @@
-#!C:\Python36\python.exe
 # -*- coding:utf-8 -*-
+# @Desc: 测试抓取小说正文
 
 import requests
 import lxml

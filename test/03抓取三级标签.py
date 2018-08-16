@@ -1,5 +1,5 @@
-#!C:\Python36\python.exe
 # -*- coding:utf-8 -*-
+# @Desc: 测试抓取三级标签
 
 import requests
 import lxml
